@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**aysegultulumtas/aysegultulumtas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 💫 About Me:
 🔭 I’m currently working on C#,react,javascript,css,.Net core<br>
