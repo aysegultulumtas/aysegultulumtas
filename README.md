@@ -1,21 +1,68 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Ayşegül 👋</h1>
+<h3 align="center">A Frontend Developer passionate about creating intuitive and dynamic user experiences.</h3>
 
-
-# 💫 About Me:
-🔭 I’m currently working on C#,react,javascript,css,.Net core<br>
-
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aysegultulumtas&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aysegultulumtas&theme=vision-friendly-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aysegultulumtas&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aysegultulumtas&limit=5&theme=merko&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aysegul-tulumtas-375b49214/" target="blank">
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aysegultulumtas"/>
+  </a>
+  <a href="mailto:aysegultulumtas@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="aysegultulumtas"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aysegultulumtas&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 About Me
+
+- 🔭 I’m a final-year **Computer Engineering student** at Erciyes University, set to graduate in 2025.
+- 🌱 I'm currently focused on building my expertise in **Frontend Development**, with a strong passion for **React** and its ecosystem.
+- 🎯 My career goal is to grow into a **Full-Stack Developer**, leveraging my skills in both frontend and backend technologies to build robust and scalable applications.
+- 💬 I'm eager to learn, open to collaboration, and always ready for a new challenge in the software world.
+
+---
+
+### 🛠️ My Tech Stack & Skills
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <div align="center">
+        <strong>Frontend</strong>
+      </div>
+      <p align="center">
+        <a href="https://reactjs.org/" target="_blank"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </a>
+        <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </a>
+        <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> </a>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <div align="center">
+        <strong>Backend & Languages</strong>
+      </div>
+      <p align="center">
+        <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> </a>
+        <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/> </a>
+        <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 My Featured Project
+
+| Project                                                                                                                              | Description                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[Smart Home Pro - Control Dashboard](https://github.com/aysegultulumtas/smart-home-dashboard)** <br/> _Graduation Project_ | A feature-rich, responsive SPA to simulate a centralized control system for a modern smart home. <br/><br/> **Features:** Interactive 2D Map, Real-time Energy Analytics, Centralized Security Panel, Automation Engine, Turkish Voice Commands. |
+
+---
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aysegultulumtas&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true" alt="aysegultulumtas's github stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aysegultulumtas&theme=tokyonight" alt="aysegultulumtas's github streak"/>
+</p>
