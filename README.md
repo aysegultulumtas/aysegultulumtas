@@ -2,7 +2,7 @@
 <h3 align="center">A Frontend Developer passionate about creating intuitive and dynamic user experiences.</h3>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/aysegul-tulumtas-379492149/]" target="_blank">
+  <a href="https://www.linkedin.com/in/aysegul-tulumtas-379492149/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profili"/>
   </a>
   
@@ -10,7 +10,6 @@
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-posta Gönder"/>
   </a>
 </p>
-
 ---
 
 ### 👨‍💻 About Me
